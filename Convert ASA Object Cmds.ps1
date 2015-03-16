@@ -1,6 +1,5 @@
 ﻿# This script converts object commands from Cisco ASA 8.2 configuration to 8.3+ object commands.
 # Only feed it name commands, it will not parse an entire configuration file correctly.
-# author: samwbyers@gmail.com
 
 $txt_file = "<your text file of object names here>"
 
